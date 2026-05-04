@@ -1,3 +1,4 @@
+
 # ❤️ Heart Disease Prediction Using Machine Learning
 
  **Live App:** https://heart-disease-prediction-using-machine-learning-app.streamlit.app/
@@ -236,6 +237,7 @@ Example:
 * Deployed using **Streamlit Community Cloud**
 * Publicly accessible via web
 
+<img width="349" height="513" alt="Screenshot 2026-05-03 203108" src="https://github.com/user-attachments/assets/d1920594-74da-4d6f-a75e-43b1db184de6" />
 ---
 
 ##  Disclaimer
